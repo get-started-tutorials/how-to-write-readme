@@ -27,3 +27,14 @@ choosealicense.com    => to pick license
 
 
 
+```javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+```
+
+```python
+function test() {
+ console.log("look ma’, no spaces");
+}
+```
