@@ -6,6 +6,9 @@ Things like
 
 1. Description
 2. Installation/Examples
+    Prerequistes
+    actualsteps
+    challenges
 3. Supported versions
 4. Known Issues/Limitation
 5. Contribution
@@ -19,8 +22,4 @@ If not available, we may not use the library or switch to library with good doc 
 Do not assume the end user would know it.
 
 
-<Prerequistes> 
 
-<actualsteps>
-
-<challenges>
