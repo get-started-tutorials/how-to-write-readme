@@ -5,10 +5,10 @@ What all should good document contain ->
 Things like
 
 1. Description
-2. Installation/Examples
-    Prerequistes
-    actualsteps
-    challenges
+2. Installation/Examples    
+    Prerequistes   
+    actualsteps   
+    challenges   
 3. Supported versions
 4. Known Issues/Limitation
 5. Contribution
