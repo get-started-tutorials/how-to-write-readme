@@ -23,3 +23,7 @@ Do not assume the end user would know it.
 
 
 
+choosealicense.com    => to pick license
+
+
+
